@@ -21,4 +21,9 @@ Webdeveloper trainee @Becode.org
 
 ### Objective
 ---
+
+### Wireframe
+
+The link for the WireFrame
+
 Want to make a webpage like  [this](https://dribbble.com/shots/15547471-KULT) 
